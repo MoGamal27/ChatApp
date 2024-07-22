@@ -2,7 +2,7 @@
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
 
 ## Live Preview 
-[![Run on Repl.it](chatapp-production-1718.up.railway.app)]
+[![Run on Repl.it](https://chatapp-production-1718.up.railway.app/)]
 
 ## Usage
 
